@@ -211,7 +211,11 @@ body {
     color: #211b12;
 }
 .feedback {
+    position: relative;
     padding: 80px 0 160px;
+}
+.feedback-hand {
+    position: absolute;
 }
 .input-group {
     margin-bottom: 24px;
